@@ -33,6 +33,9 @@ pip install tensorflow keras streamlit numpy pandas
 
 **Project Structure**
 
+## Project Structure
+
+```plaintext
 simple-rnn-imdb/
 ├── app.py              # Streamlit web application for deployment
 ├── model.py            # RNN model definition
