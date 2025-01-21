@@ -2,6 +2,9 @@
 
 This project demonstrates a basic implementation of a Recurrent Neural Network (RNN) for sentiment analysis using the IMDB dataset. The model is built with TensorFlow and Keras, and a Streamlit web application is used for deploying the model for real-time predictions.
 
+
+Web app: https://3ibwdlruugqc7cnmnsyzgq.streamlit.app/
+
 ---
 
 ## Requirements
